@@ -97,7 +97,7 @@ def invWarpImage(den_image, pts):
 
 if __name__ == '__main__':
     # read image
-    cap = cv2.VideoCapture("data_2/challenge_video.mp4")
+    cap = cv2.VideoCapture("data/challenge_video.mp4")
     ctr = 0
     temp_yellow_loc = 0
 
