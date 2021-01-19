@@ -36,5 +36,8 @@ cd Codes
 ```
 python3 lane-detection.py
 ```
-
+### TODO
+1. [ ] Make the code more robust
+2. [ ] Check it on other datasets
+3. [ ] Add a patch between the lane lines
 
